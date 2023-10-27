@@ -50,7 +50,7 @@ The training section includes:
 2. Training the model on the training dataset.
 3. Monitoring training progress and visualizing metrics.
 4. Prediction
-5. 
+
 After model training, predictions are performed on both the validation and test datasets. The predictions are saved as X-ray images with the predicted body part labeled.
 
 ## Evaluation
