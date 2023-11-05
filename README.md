@@ -6,10 +6,7 @@ This project is an implementation of a Convolutional Neural Network (CNN) for th
 
 ## Project Structure
 
-`bodyparts.ipynb`: A Jupyter Notebook containing the project code.You can access the notebook and run the code by clicking on the following link:
-
-[Google Colab Notebook](https://colab.research.google.com/drive/1TV-N7uGm36CF5fSf3a7dt8TdRCZmzmqS?usp=sharing)
-
+`bodyparts.ipynb`: A Jupyter Notebook containing the project code.
 ## Requirements
 
 -  Python
